@@ -1,13 +1,11 @@
 {
   "name": "VCF 9.0 Lerntrainer",
   "short_name": "VCF Trainer",
-  "description": "Mobiler Lerntrainer für VMware Cloud Foundation 9.0",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#07111f",
-  "theme_color": "#07111f",
-  "orientation": "portrait-primary",
+  "background_color": "#f4f6f8",
+  "theme_color": "#2563eb",
   "icons": [
     {
       "src": "icon-192.png",

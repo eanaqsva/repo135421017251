@@ -1,3 +1,1 @@
-VCF Trainer PWA
-
-Für GitHub Pages alle Dateien dieses Ordners in das Repository-Root hochladen. Anschließend Pages für den main-Branch und / (root) aktivieren. Die PWA benötigt HTTPS für Offline-Cache und Installation.
+Alle Dateien direkt in das Root-Verzeichnis des GitHub-Repositories hochladen. Vorhandene Dateien ersetzen. GitHub Pages weiterhin aus main / root bereitstellen.
