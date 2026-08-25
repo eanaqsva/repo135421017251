@@ -1,1 +1,1 @@
-Alle Dateien direkt im Repository-Root ersetzen. GitHub Pages bleibt auf main / root. Cache-Version vcf-touch-v4.
+Alle Dateien im Repository-Root ersetzen. Neue Cache-Version vcf-complete-v5. Richtig ist blau plus Haken, falsch rot plus Kreuz.
