@@ -1,1 +1,1 @@
-Alle Dateien direkt in das Root-Verzeichnis des GitHub-Repositories hochladen. Vorhandene Dateien ersetzen. GitHub Pages weiterhin aus main / root bereitstellen.
+Alle Dateien direkt im Repository-Root ersetzen. GitHub Pages bleibt auf main / root. Cache-Version vcf-touch-v4.
